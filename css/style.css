@@ -32,12 +32,13 @@ html {
   color: #234197 !important;
 }
 
-#fh5co-hero-wrapper {
+ #fh5co-hero-wrapper {
   height: 800px;
   width: 100%;
   background: url("../img/banner-bg.jpg") no-repeat center;
   border-radius: 0 0 50% 50% / 4%;
-}
+} 
+
 
 .main-navbar-nav .navbar-brand {
   font-size: 38px;
